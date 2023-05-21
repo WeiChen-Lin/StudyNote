@@ -69,7 +69,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'StudyNote',
+            label: 'Study Note',
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
