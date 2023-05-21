@@ -2,13 +2,19 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial ssIntro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+### Docker network links
+
+1. https://www.youtube.com/watch?v=OU6xOM0SE4o
+2. https://www.youtube.com/watch?v=bKFMS5C4CG0
+3. https://www.youtube.com/watch?v=xrUGEoUpa3s
+
+   Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
