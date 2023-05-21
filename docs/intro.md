@@ -3,52 +3,33 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial ssIntro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![welcome](https://minimalistic-wallpaper.demolab.com/?random)
 
-## Getting Started
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&weight=700&duration=2000&pause=1000&color=FF5B19&background=FFFFFF&center=true&vCenter=true&width=435&height=40&lines=A+fullstack+developer+at+Taiwan;Use+React+for+frontend;Python+or+NodeJs+for+backend)](https://git.io/typing-svg)
 
-### Docker network links
+<!--   GitHub stats graph -->
 
-1. https://www.youtube.com/watch?v=OU6xOM0SE4o
-2. https://www.youtube.com/watch?v=bKFMS5C4CG0
-3. https://www.youtube.com/watch?v=xrUGEoUpa3s
+### 📈 GitHub Activity Graph:
 
-   Get started by **creating a new site**.
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+| .                                                                                                                                              | .                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=weichen-lin&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weichen-lin&theme=radical&layout=compact) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=weichen-lin&theme=blueberry&hide_border=true)](https://git.io/streak-stats)            |
 
-### What you'll need
+| ![Snake](/img/snake.svg)
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+<!--   profile-green-animate -->
 
-## Generate a new site
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-Generate a new Docusaurus site using the **classic template**.
+<!--   grid-snake -->
 
-The classic template will automatically be added to your project after you run the command:
+<!-- ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<!--   skyline
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
