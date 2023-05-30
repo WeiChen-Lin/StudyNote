@@ -18,8 +18,3 @@ jobs:
         run: |
           npm install && \
           npm run build
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            static/snake.svg

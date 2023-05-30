@@ -17,6 +17,12 @@ jobs:
         with:
           node-version: 16
 
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            static/snake.svg
+
       - name: install dependencies and build
         run: |
           npm install && \
