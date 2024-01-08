@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-artifact@master
         with:
           name: build-web
-          path: build
+          path: build/
 
   deploy:
     name: Deploy
@@ -42,10 +42,10 @@ jobs:
       - name: Git Checkout
         uses: actions/checkout@v3
 
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v4
         with:
           name: build-web
-          path: build
+          path: build/
 
       - name: Deploy to Firebase Hosting
         uses: w9jds/firebase-action@master
